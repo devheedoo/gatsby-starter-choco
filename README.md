@@ -1,2 +1,2 @@
-# getsby-starter-choco
+# gatsby-starter-choco
 Custom Gatsby starter package project
